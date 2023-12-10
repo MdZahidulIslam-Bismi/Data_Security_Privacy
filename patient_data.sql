@@ -26,7 +26,7 @@ INSERT INTO patient_patient (id, first_name, last_name, gender, age, weight, hei
 INSERT INTO patient_patient (id, first_name, last_name, gender, age, weight, height, health_history) VALUES (26, 'Jonathan', 'Lowe', 'Male', 38, 47.72, 136.33, 'Strep throat');
 INSERT INTO patient_patient (id, first_name, last_name, gender, age, weight, height, health_history) VALUES (27, 'Anthony', 'Johnson', 'Female', 84, 46.34, 138.87, 'Hypertension');
 INSERT INTO patient_patient (id, first_name, last_name, gender, age, weight, height, health_history) VALUES (28, 'Jordan', 'Mcintosh', 'Female', 74, 34.93, 140.0, 'Common cold');
-INSERT INTO patient_patient (id, first_name, last_name, gender, age, weight, height, health_history) VALUES (29, 'Ann', 'Montoya', 'Male', 39, 51.32, 177.54, 'Common cold');
+INSERT INTO patient_patient (id, first_name, last_name, gender, age, weight, height, health_history) VALUES (29, 'Anna', 'Montoya', 'Male', 39, 51.32, 177.54, 'Common cold');
 INSERT INTO patient_patient (id, first_name, last_name, gender, age, weight, height, health_history) VALUES (30, 'James', 'Medina', 'Male', 39, 56.33, 153.39, 'Epilepsy');
 INSERT INTO patient_patient (id, first_name, last_name, gender, age, weight, height, health_history) VALUES (31, 'Ashley', 'Kelley', 'Female', 71, 65.04, 182.35, 'Measles');
 INSERT INTO patient_patient (id, first_name, last_name, gender, age, weight, height, health_history) VALUES (32, 'Sean', 'Simpson', 'Male', 37, 97.73, 154.45, 'COVID-19');
